@@ -1,0 +1,3 @@
+test fichier pour emacs
+
+Ceci est un fichier tst pour affichage avec emacs
